@@ -3,10 +3,14 @@ layout: index
 published: true
 ---
 
-Course-in-a-Box is a free tool for building and publishing online courses—no prior coding experience required. This guide was made using Course-in-a-Box, so what you see here is what you’ll start with. There are three modules that walk through the course creation process, all linked in the nav bar at the top of the page:
-* **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
-* **[Content](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
-* **[Customize](/modules/customize/favicon)** - Add some (optional) finishing touches
+The *Demonstrating with Data Project* is an IMLS- and University of South Carolina-funded implementation project to fill the gap in school librarians’ evidence-based practice (EBP) knowledge, understanding, and application. This project’s ultimate goal is to see school librarians using EBP effectively to improve their everyday practice and share their work and impact with others in their school communities and beyond. We hope this project “will lead to improved school library practice and…impact countless secondary students and teachers.” (from grant proposal narrative)
+
+There are five modules that walk through the EBP process, all linked in the nav bar at the top of the page:
+* **[Module 1](/modules/setup/getting-started/)** : Preparing for evidence-based practice
+* **[Module 2](/modules/content/markdown-and-media)** : Collecting evidence
+* **[Module 3](/modules/customize/favicon)** : Analyzing and interpreting evidence
+* **[Module 4](/modules/customize/favicon)** : Communicating evidence
+* **[Module 5](/modules/customize/favicon)** : Some challenges to implementing EBP
 
 <br> 
 
