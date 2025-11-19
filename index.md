@@ -13,6 +13,8 @@ This curriculum has five modules that will walk you through the EBP process, all
 * **[Module 5](/modules/customize/favicon)** : Challenges to implementing EBP
 
 <br> 
+<a class="btn btn-primary" href="https://demonstratingwithdata.github.io/modules/start%20here/welcome/"><i class="fa fa-home"></i> Get Started</a>
+
 
 #### Course-in-a-Box Courses We Love ❤️
 Here are some examples of Course-in-a-Box in the wild:
