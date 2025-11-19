@@ -6,3 +6,4 @@ title: Standards
 * add all AASL standards here
 
 *based on the 2019 AASL National School Library Standards
+(Or maybe this can go together with the reference submodule)
