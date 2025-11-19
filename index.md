@@ -7,7 +7,7 @@ The *Demonstrating with Data Project* is an IMLS- and University of South Caroli
 
 This curriculum has five modules that will walk you through the EBP process, all linked in the nav bar at the top of the page:
 * **[Module 1](/modules/module%201/intro/)** : Preparing for evidence-based practice
-* **[Module 2](/modules/module%202/intro)** : Collecting evidence
+* **[Module 2](/modules/module%202/intro/)** : Collecting evidence
 * **[Module 3](/modules/customize/favicon)** : Analyzing and interpreting evidence
 * **[Module 4](/modules/customize/favicon)** : Communicating evidence
 * **[Module 5](/modules/customize/favicon)** : Challenges to implementing EBP
