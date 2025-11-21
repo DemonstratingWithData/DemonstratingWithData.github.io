@@ -15,6 +15,7 @@ This curriculum has five modules that will walk you through the EBP process, all
 <br> 
 <a class="btn btn-primary" href="https://demonstratingwithdata.github.io/modules/start%20here/welcome/">Get Started</a>
 
+**The following are here just for reference, will delete in final publishing of course**
 
 #### Course-in-a-Box Courses We Love ❤️
 Here are some examples of Course-in-a-Box in the wild:
